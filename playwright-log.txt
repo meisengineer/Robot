@@ -1,0 +1,11 @@
+{"level":30,"time":"2021-04-29T02:11:53.934Z","pid":10536,"hostname":"Jesse-PC","msg":"Listening on 55744"}
+{"level":30,"time":"2021-04-29T02:11:54.314Z","pid":10536,"hostname":"Jesse-PC","msg":"Changed active context"}
+{"level":30,"time":"2021-04-29T02:11:54.496Z","pid":10536,"hostname":"Jesse-PC","msg":"Video path: undefined"}
+{"level":30,"time":"2021-04-29T02:11:54.496Z","pid":10536,"hostname":"Jesse-PC","msg":"Changed active page"}
+{"level":30,"time":"2021-04-29T02:11:56.499Z","pid":10536,"hostname":"Jesse-PC","msg":"Retrieved text for element .anonmail > b:nth-child(19) containing 413071"}
+{"level":30,"time":"2021-04-29T02:11:56.865Z","pid":10536,"hostname":"Jesse-PC","msg":"Changed active context"}
+{"level":30,"time":"2021-04-29T02:11:56.865Z","pid":10536,"hostname":"Jesse-PC","msg":"Changing current active page"}
+{"level":30,"time":"2021-04-29T02:11:56.865Z","pid":10536,"hostname":"Jesse-PC","msg":"Changed active page"}
+{"level":30,"time":"2021-04-29T02:11:56.877Z","pid":10536,"hostname":"Jesse-PC","msg":"Changed active context"}
+{"level":30,"time":"2021-04-29T02:11:56.877Z","pid":10536,"hostname":"Jesse-PC","msg":"Changing current active page"}
+{"level":30,"time":"2021-04-29T02:11:56.877Z","pid":10536,"hostname":"Jesse-PC","msg":"Changed active page"}
